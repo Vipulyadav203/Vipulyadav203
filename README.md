@@ -14,6 +14,6 @@ I am a **Machine Learning & Agentic AI Engineer** based in India. I specialize i
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, FastAPI, n8n
 
 ### 📫 Let's Connect
-- **Email:** vipul.dtu.2k16@gmail.com
+- **LinkedIn:** [Vipul Yadav](https://www.linkedin.com/in/vipul-yadav-dtu/)
 - **Location:** India
 - Always open to discussing Generative AI, Multi-Agent Systems, and ML Research!
